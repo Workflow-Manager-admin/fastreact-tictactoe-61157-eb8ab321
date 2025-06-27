@@ -129,3 +129,61 @@ INFO:     10.1.8.62:38620 - "POST /game/start HTTP/1.1" 200 OK
 INFO:     10.1.8.62:38624 - "POST /game/start HTTP/1.1" 200 OK
 INFO:     10.1.8.62:42712 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
 INFO:     10.1.8.62:42720 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33328 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33330 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33332 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33344 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33358 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33366 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33378 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33386 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33402 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33408 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33420 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33422 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33424 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:54776 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:54788 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:54800 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:54816 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:54824 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:54836 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33480 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33482 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33490 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33500 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33510 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:33520 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33522 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:33534 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33544 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:33546 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:40996 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:41004 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:41018 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:41020 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:41030 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:38112 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:38128 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:38132 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:38146 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:38156 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:38170 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:38186 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:38196 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:36420 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
+INFO:     10.1.8.62:36430 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:36438 - "HEAD /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:36446 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:36454 - "GET /docs HTTP/1.1" 200 OK
+INFO:     10.1.8.62:36468 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.1.8.62:36480 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     10.1.8.62:45722 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:45724 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:45726 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:45728 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:45744 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:45756 - "GET /game HTTP/1.1" 404 Not Found
+INFO:     10.1.8.62:45770 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:45782 - "POST /game/start HTTP/1.1" 200 OK
+INFO:     10.1.8.62:45796 - "POST /game/move HTTP/1.1" 422 Unprocessable Entity
